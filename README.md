@@ -3,7 +3,7 @@
 
 🔭 **I’m currently working on**: Next.js, OpenAI and tailwind Css and other Ecommerce sites (Real Estate, Banking, Card processing, Payment Gateway, etc).
 
-🌱 **I’m currently learning**: I’m currently learning NodeJs 🤣
+🌱 **I’m currently learning**: I’m currently learning NodeJs.
 
 
 <!--
