@@ -1,5 +1,9 @@
 ### Hi there 👋 I'm a web developer.
 
+
+🔭 I’m currently working on: Next.js, OpenAI and tailwind Css and other Ecommerce sites (Real Estate, Banking, Card processing, Payment Gateway, etc).
+
+
 <!--
 **Sumittecorb/Sumittecorb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
