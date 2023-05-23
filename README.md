@@ -13,7 +13,7 @@
 
 # My Stats :chart_with_upwards_trend:
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/Sumittecorb/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Sumittecorb&title=Commit,Followers,Repositories,Stars,PullRequest,Issues&margin-w=5" alt="Sumittecorb" />
   </a>
 </p>
