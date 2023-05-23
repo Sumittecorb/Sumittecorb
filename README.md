@@ -28,9 +28,9 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Sumittecorb?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
    <!--  Github profile views  -->
-  <a href="https://github.com/Sumittecorb">
+<!--   <a href="https://github.com/Sumittecorb">
     <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=Sumittecorb&style=for-   the-badge"/>
-  </a>
+  </a> -->
 </p>
 
  <p align="center">
