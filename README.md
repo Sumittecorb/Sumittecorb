@@ -12,22 +12,22 @@
   </a>
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/Sumittecorb?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Sumittecorb"/>. </a>
   <a href="https://github.com/Sumittecorb?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Sumittecorb?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/Sumittecorb">
     <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=Sumittecorb&style=for-the-badge"/></a>
-</p> -->
+</p>
 
-<!-- <p align="center">
+ <p align="center">
   <a href="https://github.com/Sumittecorb/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sumittecorb" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumittecorb&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
- -->
-<!-- <p align="center">
+ 
+<p align="center">
   <a href="https://github.com/Sumittecorb/github-readme-stats">
     <img
       height="150"
@@ -40,7 +40,7 @@
       height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumittecorb&layout=compact&theme=vision-friendly-dark" />
   </a>  
-</p> -->
+</p>
 <!--p align="center">
   <a href="https://github.com/Sumittecorb/github-readme-stats">
     <img
