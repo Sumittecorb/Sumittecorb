@@ -35,21 +35,21 @@
 
  <p align="center">
    <!--  Streaks stats  -->
-  <a href="https://github.com/Sumittecorb/github-readme-streak-stats">
+  <a href="https://github.com/Sumittecorb/">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sumittecorb" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumittecorb&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
  
 <p align="center">
   <!-- Current streaks  -->
-  <a href="https://github.com/Sumittecorb/github-readme-stats">
+  <a href="https://github.com/Sumittecorb">
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api?username=Sumittecorb&count_private=true&show_icons=true&custom_title=Sumittecorb's%20Github%20Status&theme=vision-friendly-dark"
     />
    </a>
 <!-- Longets streaks  -->
-  <a href="https://github.com/Sumittecorb/github-readme-stats">
+  <a href="https://github.com/Sumittecorb">
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumittecorb&layout=compact&theme=vision-friendly-dark" />
