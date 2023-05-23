@@ -5,6 +5,12 @@
 
 🌱 **I’m currently learning**: I’m currently learning NodeJs.
 
+:telescope: **Experienced**: 
+- ReactJs, GraphQL, Javascript, Typescript,
+- Next.js , Redux, Redux Toolkit, Python
+- Material UI, Tailwind, Bootstrap
+- AWS, Google Cloud
+
 # My Stats :chart_with_upwards_trend:
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -49,25 +55,25 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumittecorb&layout=compact&theme=vision-friendly-dark" />
   </a>  
 </p>
-<!--p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Sumittecorb/github-readme-stats">
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api/wakatime?username=Sumittecorb&layout=compact&theme=vision-friendly-dark" />
   </a>
-</p-->
-<!-- <p align="center">
+</p> -->
+<!--  <p align="center">
   <a href="https://github.com/Sumittecorb/miamioh">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Sumittecorb&repo=miamioh&layout=compact&theme=cobalt" />
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Sumittecorb&repo=NextJS-OpenAI-Chat&layout=compact&theme=cobalt" />
   </a>
   <a href="https://github.com/Sumittecorb/real-estate-tami-pardee">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=multijump&repo=real-estate-tami-pardee&layout=compact&theme=cobalt" />
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Sumittecorb&repo=NextJs-TailwindCSS-TradingPanel-Sample&layout=compact&theme=cobalt" />
   </a>
-</p> -->
+</p>   -->
 
 - 📫 How to reach me </br>
     Email: sumit.2019@tecorb.co </br>
