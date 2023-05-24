@@ -11,6 +11,16 @@
 - Material UI, Tailwind, Bootstrap
 - AWS, Google Cloud
 
+<!-- <details>
+    <summary>&#127942 <b>GitHub Activity (Public Data)</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/Sumittecorb?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FSao_Paulo)
+
+</details> -->
+
+
+
+
 # My Stats :chart_with_upwards_trend:
 <p align="center">
   <a href="https://github.com/Sumittecorb">
@@ -77,6 +87,26 @@
 
 - 📫 How to reach me </br>
     Email: sumit.2019@tecorb.co </br>
+    
+    
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sumittecorb&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) -->
+
+<div align="center">
+
+<!--   <img height="180em" src="https://github.com/Sumittecorb/Sumittecorb/blob/output/github-contribution-grid-snake.svg" /> -->
+
+##
+
+<details>
+    <summary>&#127942 <b>GitHub Activity (Public Data)</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/Sumittecorb?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FSao_Paulo)
+
+</details>
+
+##
+
+</div>
 <!--
 **Sumittecorb/Sumittecorb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
