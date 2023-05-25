@@ -73,12 +73,12 @@
   </a>
 </p> -->
  <p align="center">
-  <a href="https://github.com/Sumittecorb/miamioh">
+  <a href="https://github.com/Sumittecorb/NextJS-OpenAI-Chat">
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api/pin/?username=Sumittecorb&repo=NextJS-OpenAI-Chat&layout=compact&theme=cobalt" />
   </a>
-  <a href="https://github.com/Sumittecorb/real-estate-tami-pardee">
+  <a href="https://github.com/Sumittecorb/NextJs-TailwindCSS-TradingPanel-Sample">
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api/pin/?username=Sumittecorb&repo=NextJs-TailwindCSS-TradingPanel-Sample&layout=compact&theme=cobalt" />
