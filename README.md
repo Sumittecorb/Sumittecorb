@@ -117,13 +117,44 @@
 <!--   <img height="180em" src="https://github.com/Sumittecorb/Sumittecorb/blob/output/github-contribution-grid-snake.svg" /> -->
 
 ##
+    
+    
+<!-- <h1 font-weight="bold">📊 My Github Stats 🏆</h1>
 
-<details>
+<div align='center'>
+  <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumittecorb&layout=compact&langs_count=7&theme=dark">
+  <a href="#">
+    <img  src="https://github-profile-trophy.vercel.app/?username=Sumittecorb&theme=darkhub&row=1&column=6" alt="trophy">
+  </a>
+  <br/>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&preferLogin=false">
+    <img height="150em" alt="Sumittecorb's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Sumittecorb?cardType=level&theme=dark&preferLogin=false" />
+  </a>
+
+  <a href="https://git.io/streak-stats">
+    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=Sumittecorb&theme=dark" alt="GitHub Streak">
+  </a>
+</div> -->
+<br/>
+<!-- <details>
+   <summary><h3><b>:rocket: &nbsp;Github stats Detailed</b></h3></summary>
+   </br>
+    <div align='center'>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumittecorb&theme=dark" alt="Profile Details">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sumittecorb&theme=dark" alt="Repos per Language">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sumittecorb&theme=dark" alt="Most Commit Language">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sumittecorb&theme=dark" alt="Stats">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sumittecorb&theme=dark&utcOffset=8" alt="Productive Time">
+    </div>
+   </br>
+</details> -->
+
+<!-- <details>
     <summary>&#127942 <b>GitHub Activity (Public Data)</b></summary><br/>
 
 ![Metrics](https://metrics.lecoq.io/Sumittecorb?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FSao_Paulo)
 
-</details>
+</details> -->
 
 ##
 
