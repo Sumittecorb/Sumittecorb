@@ -85,10 +85,31 @@
   </a>
 </p>  
 
-- 📫 How to reach me </br>
-    Email: sumit.2019@tecorb.co </br>
+<!-- - 📫 How to reach me </br>
+    Email: sumit.2019@tecorb.co </br> -->
     
-    
+<h1 font-weight="bold">
+  📮 How to reach me
+<!--   <img src='https://raw.githubusercontent.com/Sumittecorb/Sumittecorb/main/Assets/handshake.gif' width="100" /> -->
+</h1>
+
+<p align='center'>
+  <a href="mailto:sumit.2019@tecorb.co" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+<!--   <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a> -->
+<!--   <a href="https://discord.com/users/">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a> -->
+  <a href="https://join.skype.com/invite/ashVIfJYEBoP" target="_blank">
+    <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
+  </a>
+<!--   <a href="https://t.me">
+    <img src="https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a> -->
+</p>
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sumittecorb&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) -->
 
 <div align="center">
