@@ -136,7 +136,7 @@
   </a>
 </div> -->
 <!-- <br/> -->
-<!-- <details>
+<details>
    <summary><h3><b>:rocket: &nbsp;Github stats Detailed</b></h3></summary>
    </br>
     <div align='center'>
@@ -147,7 +147,7 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sumittecorb&theme=dark&utcOffset=8" alt="Productive Time">
     </div>
    </br>
-</details> -->
+</details>
 
 <!-- <details>
     <summary>&#127942 <b>GitHub Activity (Public Data)</b></summary><br/>
