@@ -7,7 +7,7 @@
 
 :telescope: **Experienced**: 
 - ReactJs, GraphQL, Javascript, Typescript,
-- Next.js , Redux, Redux Toolkit, Python
+- Next.js, Redux, Redux Toolkit, Python
 - Material UI, Tailwind, Bootstrap
 - AWS, Google Cloud
 
@@ -149,13 +149,13 @@
    </br>
 </details>
 
-<!-- <details> 
+ <details> 
     <summary>&#127942 <b>GitHub Activity (Public Data)</b></summary><br/>
 
 ![Metrics](https://metrics.lecoq.io/Sumittecorb?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FSao_Paulo)
 
 </details> 
--->
+
 
 <!-- ## -->
 
