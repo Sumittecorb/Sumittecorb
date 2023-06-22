@@ -149,17 +149,13 @@
    </br>
 </details>
 
- <details> 
-    <summary>&#127942 <b>GitHub Activity (Public Data)</b></summary><br/>
+<!--   <details> 
+   <summary>&#127942 <b>GitHub Activity (Public Data)</b></summary><br/> 
 
 ![Metrics](https://metrics.lecoq.io/Sumittecorb?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FSao_Paulo)
 
 </details> 
 
+-->
 
-<!-- ## -->
-
-<!-- </div> -->
-<!--
-**Sumittecorb/Sumittecorb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
