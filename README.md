@@ -79,8 +79,7 @@
   </a>
 </p>  
 
-<!-- - 📫 How to reach me </br>
-    Email: sumit.2019@tecorb.co </br> -->
+
     
 <h1 font-weight="bold">
   📮 How to reach me
