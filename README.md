@@ -99,9 +99,6 @@
   <a href="https://join.skype.com/invite/ashVIfJYEBoP" target="_blank">
     <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
   </a>
-<!--   <a href="https://t.me">
-    <img src="https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a> -->
 </p>
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sumittecorb&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) -->
 
