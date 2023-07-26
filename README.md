@@ -79,7 +79,6 @@
     
 <h1 font-weight="bold">
   📮 How to reach me
-<!--   <img src='https://raw.githubusercontent.com/Sumittecorb/Sumittecorb/main/Assets/handshake.gif' width="100" /> -->
 </h1>
 
 <p align='center'>
