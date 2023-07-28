@@ -55,13 +55,6 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumittecorb&layout=compact&theme=vision-friendly-dark" />
   </a>  
 </p>
-<!-- <p align="center">
-  <a href="https://github.com/Sumittecorb/github-readme-stats">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=Sumittecorb&layout=compact&theme=vision-friendly-dark" />
-  </a>
-</p> -->
  <p align="center">
   <a href="https://github.com/Sumittecorb/NextJS-OpenAI-Chat">
     <img
@@ -85,12 +78,7 @@
   <a href="mailto:sumit.2019@tecorb.co" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-<!--   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a> -->
-<!--   <a href="https://discord.com/users/">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a> -->
+
   <a href="https://join.skype.com/invite/ashVIfJYEBoP" target="_blank">
     <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
   </a>
