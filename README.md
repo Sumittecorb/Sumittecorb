@@ -108,7 +108,6 @@
     <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=Sumittecorb&theme=dark" alt="GitHub Streak">
   </a>
 </div> -->
-<!-- <br/> -->
 <details>
    <summary><h3><b>:rocket: &nbsp;Github stats Detailed</b></h3></summary>
    </br>
