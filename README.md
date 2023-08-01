@@ -83,15 +83,8 @@
     <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
   </a>
 </p>
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sumittecorb&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) -->
 
-<!-- <div align="center"> -->
 
-<!--   <img height="180em" src="https://github.com/Sumittecorb/Sumittecorb/blob/output/github-contribution-grid-snake.svg" /> -->
-
-<!-- ## -->
-    
-    
 <!-- <h1 font-weight="bold">📊 My Github Stats 🏆</h1>
 
 <div align='center'>
