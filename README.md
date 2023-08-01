@@ -103,10 +103,6 @@
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&preferLogin=false">
     <img height="150em" alt="Sumittecorb's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Sumittecorb?cardType=level&theme=dark&preferLogin=false" />
   </a>
-
-  <a href="https://git.io/streak-stats">
-    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=Sumittecorb&theme=dark" alt="GitHub Streak">
-  </a>
 </div> -->
 <details>
    <summary><h3><b>:rocket: &nbsp;Github stats Detailed</b></h3></summary>
