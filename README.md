@@ -6,7 +6,7 @@
 🌱 **I’m currently learning**: I’m currently learning NodeJs.
 
 :telescope: **Experienced**: 
-- ReactJs, GraphQL, Javascript, Typescript,
+- ReactJs, GraphQL, Javascript, Typescript
 - Next.js, Redux, Redux Toolkit, Python
 - Material UI, Tailwind, Bootstrap
 - AWS, Google Cloud
