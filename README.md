@@ -3,7 +3,7 @@
 
 🔭 **I’m currently working on**: Next.js, OpenAI and tailwind Css.
 
-🌱 **I’m currently learning**: I’m currently learning NodeJs.
+🌱 **I’m currently learning**: NodeJs.
 
 :telescope: **Experienced**: 
 - ReactJs, GraphQL, Javascript, Typescript
