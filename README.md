@@ -40,7 +40,7 @@
   </a>
 </p>
  
-<!--<p align="center">
+<p align="center">
   <a href="https://github.com/Sumittecorb">
     <img
       height="150"
@@ -64,7 +64,7 @@
       height="150"
       src="https://github-readme-stats.vercel.app/api/pin/?username=Sumittecorb&repo=NextJs-TailwindCSS-TradingPanel-Sample&layout=compact&theme=cobalt" />
   </a>
-</p>   -->
+</p> 
 
 
     
