@@ -34,7 +34,7 @@
 </p>
 
  <p align="center">
-   <!--  Streaks stats      -->
+   <!--  Streaks stats   -->
   <a href="https://github.com/Sumittecorb/">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sumittecorb" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumittecorb&theme=monokai-metallian&hide_border=true"/>
   </a>
