@@ -8,7 +8,7 @@
 :telescope: **Experienced**: 
 - ReactJs, GraphQL, Javascript, Typescript
 - Next.js, Redux, Redux Toolkit, Python
-- Material UI, Tailwind, Bootstrap
+- Material UI, Tailwind CSS, Bootstrap
 - AWS, Google Cloud
 
 
