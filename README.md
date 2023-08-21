@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm a web developer.
 
 
-🔭 **I’m currently working on**: Next.js, OpenAI and tailwind Css.
+🔭 **I’m currently working on**: Next.js fullstack and tailwind Css.
 
 🌱 **I’m currently learning**: NodeJs.
 
