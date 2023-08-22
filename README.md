@@ -5,6 +5,7 @@
 
 🌱 **I’m currently learning**: NodeJs.
 
+
 :telescope: **Experienced**: 
 - ReactJs, GraphQL, Javascript, Typescript
 - Next.js, Redux, Redux Toolkit, Python
