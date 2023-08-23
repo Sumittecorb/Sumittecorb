@@ -55,16 +55,16 @@
   </a>  
 </p>
   <p align="center">
-  <a href="https://github.com/Sumittecorb/NextJS-OpenAI-Chat">
-    <img
+    <a href="https://github.com/Sumittecorb/NextJS-OpenAI-Chat">
+      <img
       height="150"
       src="https://github-readme-stats.vercel.app/api/pin/?username=Sumittecorb&repo=NextJS-OpenAI-Chat&layout=compact&theme=cobalt" />
-  </a>
-  <a href="https://github.com/Sumittecorb/NextJs-TailwindCSS-TradingPanel-Sample">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Sumittecorb&repo=NextJs-TailwindCSS-TradingPanel-Sample&layout=compact&theme=cobalt" />
-  </a>
+    </a>
+    <a href="https://github.com/Sumittecorb/NextJs-TailwindCSS-TradingPanel-Sample">
+      <img
+        height="150"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Sumittecorb&repo=NextJs-TailwindCSS-TradingPanel-      Sample&layout=compact&theme=cobalt" />
+    </a>
 </p> 
 
 
