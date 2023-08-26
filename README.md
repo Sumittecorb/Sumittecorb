@@ -95,12 +95,12 @@
     </div>
    </br>
 </details>
-<!--   <details> 
+ <details> 
    <summary>&#127942 <b>GitHub Activity (Public Data)</b></summary><br/> 
 
 ![Metrics](https://metrics.lecoq.io/Sumittecorb?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FSao_Paulo)
 
-</details>  -->
+</details> 
 
 
 
